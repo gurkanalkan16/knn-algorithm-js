@@ -1,0 +1,12 @@
+#chart-container{
+    width: 750px;
+    height: 450px;
+    float: left;
+}
+#form{
+    float: left;
+    text-align: center;
+    margin-left: 35vwin;
+    margin-top: 35vwin;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
